@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Workshop &mdash; Colorlib Website Template</title>
+    <title>Workshop: Heuristics, hacks and habits</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,7 +53,7 @@
           <div class="col-md-10">
             <span class="d-block mb-3 caption" data-aos="fade-up" data-aos-delay="100">41st Annual Meeting of the Cognitive Science Society </span>
             <h1 class="d-block mb-5" data-aos="fade-up" data-aos-delay="0">Heuristics, hacks and habits</h1>
-            <span class="d-block mb-5 caption" data-aos="fade-up" data-aos-delay="300">07/24/2019, ROOM 519AB, Palais des Congrès, Montréal</span>
+            <span class="d-block mb-5 caption" data-aos="fade-up" data-aos-delay="300">07/24/19, ROOM 519AB, Palais des Congrès de Montréal</span>
           </div>
         </div>
       </div>
@@ -98,12 +98,13 @@
           </div>
 
 
+
           <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="000">
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">9:35</span> <span>AM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Learning to infer</h2>
-                <span>Ishita Dasgupta</span>
+                <h2 class="text-white">Bounded Rationality for Artificial Intelligence</h2>
+                <span>Özgür Şimşek</span>
               </div>
             </div>
           </div>
@@ -112,7 +113,7 @@
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">10:05</span> <span>AM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Learning how to decide</h2>
+                <h2 class="text-white">Discovering heuristics and learning how to decide</h2>
                 <span>Falk Lieder</span>
               </div>
             </div>
@@ -122,7 +123,7 @@
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">10:35</span> <span>AM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Morning break</h2>
+                <h2 class="text-white">Morning Break</h2>
               </div>
             </div>
           </div>
@@ -131,18 +132,19 @@
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">11:00</span> <span>AM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Exploiting the statistical properties of decision environments</h2>
-                <span>Ozgur Simsek</span>
+                <h2 class="text-white">Learning to infer</h2>
+                <span>Ishita Dasgupta</span>
               </div>
             </div>
           </div>
+
 
         <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="000">
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">11:30</span> <span>AM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Computational rationality</h2>
-                <span>Josh Tenenbaum</span>
+                <h2 class="text-white">Strategies for physical reasoning</h2>
+                <span>Kevin Smith</span>
               </div>
             </div>
           </div>
@@ -181,7 +183,7 @@
             <div class="row align-items-stretch">
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">2:00</span> <span>PM</span></div>
               <div class="col-md-9">
-                <h2 class="text-white">Hacks in intuitive theories</h2>
+                <h2 class="text-white">Rapid trial-and-error learning in humans and machines</h2>
                 <span>Kelsey Allen</span>
               </div>
             </div>
@@ -221,7 +223,7 @@
               <div class="col-md-3 text-white mb-3 mb-md-0"><span class="h4">4:00</span> <span>PM</span></div>
               <div class="col-md-9">
                 <h2 class="text-white">Discussion</h2>
-                <span>Speakers + Audience</span>
+                <span>Moderated by Josh Tenenbaum</span>
               </div>
             </div>
           </div>
@@ -239,6 +241,7 @@
             <h2 class="footer-heading text-uppercase mb-4">About Event</h2>
             <p>ROOM 519AB</p>
             <p>Palais des Congrès de Montréal</p>
+            <p>Ishita Dasgupta, Eric Schulz, Jess Hamrick & Josh Tenenbaum</p>
           </div>
          </div>
       </div> 
